@@ -1,5 +1,5 @@
-<h1 align="center">InstaUnfollow</h1>
-<p align="center">You can unfollow everyone on instagram using This Tool</p><br>
+<h1 align="center">SMS_Bomber</h1>
+<p align="center">A SMS bomber For Linux and Termux</p><br>
 
 
 
@@ -21,9 +21,9 @@
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/hacker6291/InstaUnfollow.git `
+* `git clone https://github.com/hacker6291/SMS_Bomber.git `
 * `ls`
-* `cd InstaUnfollow `
+* `cd SMS_Bomber `
 
 
 ## INSTALLATION [Kali Linux] :
@@ -31,16 +31,16 @@
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/hacker6291/InstaUnfollow.git`
+* `git clone https://github.com/hacker6291/SMS_Bomber.git`
 * `ls`
-* `cd InstaUnfollow `
+* `cd SMS_Bomber `
 
 
 ## Uses :
 
-* `cd InstaUnfollow`
+* `cd SMS_Bomber`
 * `ls`
-* `bash start.sh`
+* `python3 bomber.py`
 
 
 ## Screenshot:
