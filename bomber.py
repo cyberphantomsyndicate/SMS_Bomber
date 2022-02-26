@@ -37,13 +37,12 @@ try:
     import requests
 except ImportError:
     print('[!] Error: some dependencies are not installed')
-    print('Type \'pip install -r requirements.txt\' to install all required packages')
+    print(' Bye')
     exit()
 
 colors=['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;34m','\033[1;35m','\033[1;36m']
 W='\033[0m'
-# The Credit For This Code Goes To CyberGhost And All Other Contributors Listed At https://github.com/MrHarshArora/CyberGhostWeapon
-# If You Wanna Take Credits For This Code, Please Look Yourself Again
+
 
 country_codes = {
     '93': 'AF',
@@ -802,8 +801,7 @@ except Exception:
     print("\tPlease Connect To Internet To Continue...\n")
     input('Exiting....\n Press Enter To Continue....')
     exit()
-print("Please Join my Telegram Group")
-print('\n\n\t\t\tStarting SMS Bomber...\n\n')
+
 try:
     noti = urllib.request.urlopen(
         "#").read().decode('utf-8')
