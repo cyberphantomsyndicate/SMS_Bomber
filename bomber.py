@@ -1,9 +1,9 @@
-import time #line:3
+import time 
 from colorama import Fore ,Back ,Style ,init #line:4
 init (autoreset =True )#line:5
 def startMessage ():#line:7
     OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code To Unlock The Tool : ")#line:8
-    OOOO0OO000OO0OOOO ="maria"
+    OOOO0OO000OO0OOOO ="CPS"
     if OOOO0OO000OO0OOOO !=OO0O0OO0OOO0OO0O0 :#line:10
         print (Fore .RED +'[X] Wrong Code')#line:11
         print (Fore .BLUE +''' 
@@ -788,7 +788,7 @@ def update():
         print('\n\t\tUpdated Successfull !!!!')
         print('\tPlease Run The Script Again...')
     else:
-        print("Please reclone CyberGhostWeapon Again")
+        print("Please reclone SMS_Bomber")
     sys.exit()
 
 
@@ -911,8 +911,8 @@ if nm == 0:
     print("             Number of Threads   : ", nt)
     print("             Delay               : ", dl)
     print("==================================================================")
-    print("              Use this          for revenge !!                ")
-    print("              I hope u are enjoying!         ")
+    print("              Use this for revenge !!                             ")
+    print("              I hope u are enjoying!                              ")
     print("==================================================================")
     print(W)
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Start Bomber...\n')
