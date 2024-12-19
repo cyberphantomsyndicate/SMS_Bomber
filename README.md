@@ -58,11 +58,11 @@ src="https://github.com/hacker6291/SMS_Bomber/blob/main/check.jpg"\>
 
 ------------------------------------------------------------------------------------------------------------------------
 # Follow Me on
-✅ whatsapp +91 75069 13103
+✅ whatsapp +91 7281800895
 
 ✅ Youtube  https://youtube.com/channel/UC0bA-g308dwateRac81PnjQ
 
-✅instagram https://instagram.com/qadirahmad6291?utm_medium=copy_link
+✅instagram https://instagram.com/cyberphantomsyndicateutm_medium=copy_link
 
 ✅ Telegram https://t.me/Termux_official_01
 
