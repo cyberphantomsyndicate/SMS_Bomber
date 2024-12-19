@@ -21,7 +21,7 @@
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/hacker6291/SMS_Bomber.git `
+* `git clone https://github.com/cyberphantomsyndicate/SMS_Bomber.git `
 * `ls`
 * `cd SMS_Bomber `
 
